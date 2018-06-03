@@ -24,6 +24,14 @@ const dapps = [
         url : "http://www.catnip.fun/",
         urlText : "catnip.fun",
         description : "Match your cryptokitties"
+    },
+    {
+        id : 4,
+        name: "Purrbook",
+        image: "https://pbs.twimg.com/profile_images/989497082972135424/WW255YXJ_400x400.jpg",
+        description : "Social site for cryptokitties",
+        url : "http://cryptopurr.co",
+        urlText : "cryptopurr.co"
     }
 ]
 
