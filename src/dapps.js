@@ -32,6 +32,14 @@ const dapps = [
         description : "Social site for cryptokitties",
         url : "http://cryptopurr.co",
         urlText : "cryptopurr.co"
+    },
+    {
+        id : 5,
+        name : "Kitty Battles",
+        image : "https://alpha.kittybattles.io/KBLogo.svg",
+        description : "Battle your kitties!",
+        url : "https://alpha.kittybattles.io/#/",
+        urlText : "aplpha.kittybattles.io"
     }
 ]
 
